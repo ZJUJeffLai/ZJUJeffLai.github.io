@@ -7,9 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<!-- {% include base_path %} -->
 {% include base_path %}
 
-Education
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Resume_Lai_2022.pdf)
+
+<!-- Education
+
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -56,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

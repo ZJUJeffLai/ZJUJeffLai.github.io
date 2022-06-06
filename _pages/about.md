@@ -14,7 +14,7 @@ Currently, I am a Ph.D. candidate in the senior year at [Department of Electrica
 Recent News
 ======
 * I will join Amazon Lab 126 (Sunnyvale) as an Applied Sceintist Intern in June, 2022. 
-* Our work on ''Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution'' was accepted by The International Conference on Machine Learning (ICML) 2022.  
+* Our work on ''*Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution*'' was accepted by The International Conference on Machine Learning (**ICML**) 2022.  
 
 
 Getting started
