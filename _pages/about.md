@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhengfeng (Jeff) Lai's Personal Website"
+title: "Zhengfeng (Jeff) Lai's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
