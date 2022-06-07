@@ -46,7 +46,7 @@ redirect_from:
   
 Teaching
 ======
-* EEC 193AB/174AB (AI System Design for Senior Undergraduate)
+* EEC 193AB/174AB: AI System Design for Senior Undergraduate
   * Fall 2019, Winter 2020
   * Fall 2020, Winter 2021
   * Fall 2021, Winter 2022
