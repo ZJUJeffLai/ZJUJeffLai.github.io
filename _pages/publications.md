@@ -7,6 +7,9 @@ author_profile: true
 
 Find more on my [Google Scholar](https://scholar.google.com/citations?user=rd8aA3MAAAAJ&hl=en&authuser=1&oi=ao). 
 
+Preprints
+======
+* **Z. Lai**, C. Wang, Z. Hu, B. N. Dugger, S-C. Cheung, C-N. Chuah, "SemA-Path: Semi-supervised Active Learning with Inner-Outer Selection for Pathology Image Classification and Segmentation", under review by IEEE Transactions on Medical Imaging. 
 
 
 2022
