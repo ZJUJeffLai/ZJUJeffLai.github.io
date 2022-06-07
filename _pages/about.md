@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Currently, I am a Ph.D. candidate in the senior year at [Department of Electrical and Computer Engineering](https://ece.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University. My research interests include semi-supervised learng, AI healthcare. 
-In my free time, I like to play :tennis:, hiking and outdoor adventures. 
+In my free time, I like to play tennis, hiking and outdoor adventures. 
 
 Recent News
 ======
