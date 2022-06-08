@@ -15,7 +15,7 @@ Preprints
 2022
 ======
 * **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," The 39th International Conference on Machine Learning (**ICML**), July 17-23, 2022.
-* **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022.
+* **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. [Poster](https://drive.google.com/file/d/1N0L_nPnqv62uY8HjNZY0bR22fvdbhrfX/view)
 * **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171)
 
 
@@ -29,7 +29,12 @@ Preprints
 
 2020 
 ======
-* **Z. Lai**, K. Guo, W. Xu, Z. Hu, B. Dugger, S. Cheung, and C-N. Chuah, "Automated Grey and White Matter Segmentation in Digitized Ab Human Brain Tissue Slide Images, IEEE ICME 2020 Workshop on Multimedia Services and Technologies for Smart Health (MUST-SH), July 2020. [PDF](https://ieeexplore.ieee.org/abstract/document/9105974)
+* **Z. Lai**, K. Guo, W. Xu, Z. Hu, B. Dugger, S. Cheung, and C-N. Chuah, "Automated Grey and White Matter Segmentation in Digitized Ab Human Brain Tissue Slide Images," IEEE ICME 2020 Workshop on Multimedia Services and Technologies for Smart Health (MUST-SH), July 2020. [PDF](https://ieeexplore.ieee.org/abstract/document/9105974)
 
 
 
+Abstract & Poster
+======
+* **Z. Lai**, L. Cerny Oliveira, D. Harvey, K. Nzenkue, L-W. Jin, C. DeCarli, C-N. Chuah, and B. N. Dugger, "Generalizability of Deep Learning Frameworks for Amyloid Beta Deposit Assessment, Evaluation of Pre-analytic Variables," American Association of Neuropathologists (AANP) Annual Meeting, June 2022. (*Platform Presentation*)
+* **Z. Lai**, P. Vadlaputi, D. Tancredi, M. Garg, R. Koppel, M. Goodman, M, W. Hogan, N. Cresalia, S. Juergensen, E. Manalo, S. Lakshminrusimha, C. Chuah, and H. Siefkes, "Machine Learning Algorithm Combining Pulse Oximetry Features for Critical Congenital Heart Disease Screening," Pediatric Academic Society, May 2021.
+* P. Vadlaputi, **Z. Lai**, M. Garg, R. Koppel, M. Goodman, M, W. Hogan, N. Cresalia, S. Juergensen, E. Manalo, C. Chuah, S. Lakshminrusimha, and H. Siefkes, "Simple Automation Reduces False Positive Rate in Perfusion Index Critical Congenital Heart Disease (CCHD) Screening," Eastern Society for Pediatric Research Annual Meeting, March 2021.
