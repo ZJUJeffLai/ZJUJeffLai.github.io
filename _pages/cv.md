@@ -44,7 +44,7 @@ redirect_from:
   * IEEE Transactions on Image Processing
 
   
-Teaching
+-- Teaching
 ======
 * EEC 193AB/174AB: AI System Design for Senior Undergraduate
   * Fall 2019, Winter 2020
