@@ -18,7 +18,7 @@ redirect_from:
 * B.S. in Information Engineering, Zhejiang University, 2019
 * Ph.D in Electrical and Computer Engineering, University of California, Davis, 2023 (expected)
 
--- Work experience
+-- Work Experience
 ======
 * Summer 2022: Applied Scientist Intern 
   * Amazon Lab 126 (Sunnyvale, CA)
