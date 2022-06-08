@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a Ph.D. candidate in the senior year at [Department of Electrical and Computer Engineering](https://ece.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University. My research interests include semi-supervised learng, AI healthcare. 
+I am a Ph.D. candidate in the senior year at [Department of Electrical and Computer Engineering](https://ece.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University. My research interests include semi-supervised learng, AI healthcare. 
 In my free time, I like to play tennis, hiking and outdoor adventures. 
 
 Recent News
 ======
-* I will join Amazon Lab 126 (Sunnyvale) as an Applied Sceintist Intern in June, 2022. 
+* I will join Amazon Lab 126 (Sunnyvale, CA) as an Applied Scientist Intern in June, 2022. 
 * Our work on ''*Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution*'' was accepted by The International Conference on Machine Learning (**ICML**) 2022.  
+* I will join Electronic Arts (Redwood City, CA) as a Ph.D. Data Scientist Intern in June, 2021. 
 
 
 <!-- Getting started

@@ -1,13 +1,17 @@
 # main links links
 main:
-  - title: "Service"
-    url: /service/
-
-  - title: "CV"
+  - title: "CV & Service"
     url: /cv/
-
+    
   - title: "Publications"
     url: /publications/
+
+  # - title: "Service"
+  #   url: /service/
+
+  
+
+  
 
   # - title: "Talks"
   #   url: /talks/    
