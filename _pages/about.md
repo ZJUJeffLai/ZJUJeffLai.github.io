@@ -18,7 +18,7 @@ Recent News
 ======
 * I'm honored to receive the **Best Paper Award** (Top 3) from Workshop on Learning with Limited Labelled Data for Image and Video Understanding at CVPR 2022.
 * I'm honored to receive the 2022 Smita Bakshi Digital Learning and Teaching Award from the Electrical and Computer Engineering Department. 
-* I'm honored to receiving the ICML 2022 Participation Grant and R13 Grant Travel Awards from the American Association of Neuropathologists Annual (AANP). 
+* I'm honored to receive the ICML 2022 Participation Grant and R13 Grant Travel Awards from the American Association of Neuropathologists Annual (AANP). 
 * I will join Amazon Lab126 (Sunnyvale, CA) as an Applied Scientist Intern in June, 2022. 
 * Our work on ''*Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution*'' was accepted by The International Conference on Machine Learning (**ICML**) 2022.  
 * I will join Electronic Arts (Redwood City, CA) as a Ph.D. Data Scientist Intern in June, 2021. 
