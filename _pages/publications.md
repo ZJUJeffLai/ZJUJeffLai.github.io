@@ -15,8 +15,9 @@ Preprints
 2022
 ======
 * **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," The 39th International Conference on Machine Learning (**ICML**), July 17-23, 2022.
-* **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. [Poster](https://drive.google.com/file/d/1N0L_nPnqv62uY8HjNZY0bR22fvdbhrfX/view) (**Best Paper Award**)
+* **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. [PDF](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Lai_SaR_Self-Adaptive_Refinement_on_Pseudo_Labels_for_Multiclass-Imbalanced_Semi-Supervised_Learning_CVPRW_2022_paper.pdf)[Poster](https://drive.google.com/file/d/1N0L_nPnqv62uY8HjNZY0bR22fvdbhrfX/view) (**Best Paper Award**)
 * **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171)
+* **Z. Lai**, L. Cerny Oliveira, D. Harvey, K. Nzenkue, LW. Jin, C. DeCarli, C-N. Chuah, and B. N. Dugger, "Generalizability of Deep Learning Frameworks for Amyloid-beta Deposit Assessment, Evaluation of Pre-analytic Variables," Journal of Neuropathology and Experimental Neurology. 2022. 
 
 
 2021
