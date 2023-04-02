@@ -16,6 +16,7 @@ In my free time, I like to play tennis, hiking and outdoor adventures.
 
 Recent News
 ======
+* I will join Apple AIML (Cupertino, CA) as a ML Research Intern in March 2023. 
 * I'm honored to receive the **Best Paper Award** (Top 3) from Workshop on Learning with Limited Labelled Data for Image and Video Understanding at CVPR 2022.
 * I'm honored to receive the 2022 Smita Bakshi Digital Learning and Teaching Award from the Electrical and Computer Engineering Department. 
 * I'm honored to receive the ICML 2022 Participation Grant and R13 Grant Travel Awards from the American Association of Neuropathologists Annual (AANP). 

@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Resume_Lai_2022.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Jeff_Lai_2023_04.pdf)
 
 -- Education
 ======
@@ -20,6 +20,10 @@ redirect_from:
 
 -- Work Experience
 ======
+
+* Spring & Summer 2023: ML Research Intern 
+  * Apple AIML (Cupertino, CA)
+  
 * Summer 2022: Applied Scientist Intern 
   * Amazon Lab 126 (Sunnyvale, CA)
 

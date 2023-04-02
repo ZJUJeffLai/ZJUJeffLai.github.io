@@ -9,8 +9,9 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=rd8aA
 
 Preprints
 ======
-* **Z. Lai**, C. Wang, Z. Hu, B. N. Dugger, S-C. Cheung, C-N. Chuah, "SemA-Path: Semi-supervised Active Learning with Inner-Outer Selection for Pathology Image Classification and Segmentation", under review by IEEE Transactions on Medical Imaging. 
-
+* **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 
+* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  ``PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", under review by  **ICCV 2023**. 
+* **Z. Lai**,  L. Cerny Oliveira, B. Dugger, S-C. Cheung, C-N. Chuah, "A Deployable Semi-supervised Learning with Informative Annotation and Adaptive Pseudo Labeling for Pathology Image Analysis", under review by **IEEE Journal of Biomedical and Health Informatics**. 
 
 2022
 ======
