@@ -10,12 +10,13 @@ redirect_from:
 
 I am a Ph.D. candidate in the senior year at [Department of Electrical and Computer Engineering](https://ece.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University.
 
-My research interests include semi-supervised learng and its robustness in real-world scenorios, AI healthcare. 
+My research interests include langugage-vision model, semi-supervised learng and label/data-efficient learning, AI healthcare. 
 
 In my free time, I like to play tennis, hiking and outdoor adventures. 
 
 Recent News
 ======
+* I'm honored to receive Advancement-to-Candidacy (AC) fellowship from ECE at UC Davis. 
 * I will join Apple AIML (Cupertino, CA) as a ML Research Intern in March 2023. 
 * I'm honored to receive the **Best Paper Award** (Top 3) from Workshop on Learning with Limited Labelled Data for Image and Video Understanding at CVPR 2022.
 * I'm honored to receive the 2022 Smita Bakshi Digital Learning and Teaching Award from the Electrical and Computer Engineering Department. 
