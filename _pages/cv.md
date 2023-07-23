@@ -32,6 +32,7 @@ redirect_from:
   
 -- Selected Publications 
 ======
+* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", **ICCV 2023**. 
 * **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," The 39th International Conference on Machine Learning (**ICML**), July 17-23, 2022.
 * **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. (**Best Paper Award**)
 * **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171)
