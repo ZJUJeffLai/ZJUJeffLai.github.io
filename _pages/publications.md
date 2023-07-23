@@ -10,8 +10,16 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=rd8aA
 Preprints
 ======
 * **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 
-* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  ``PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", under review by  **ICCV 2023**. 
+
 * **Z. Lai**, J. Chauhan, L. Cerny Oliveira, B. Dugger, S-C. Cheung, C-N. Chuah, "A Deployable and “Active” Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis", under review by **NeurIPS 2023**. 
+
+
+2023
+======
+
+* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", **ICCV 2023**. 
+
+* L. Cerny Oliveira, **Z. Lai**, D. Harvey, K. Nzenkue, L-W. Jim, C. DeCarlie, C-N. Chuah, and B. N. Dugger, "Pre-analytic variable effects on segmentation and quantification machine learning algorithms for amyloid beta analyzes on digitized human brain slides," Journal of Neuropathology and Experimental Neurology, Jan 2023.
 
 2022
 ======

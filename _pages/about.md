@@ -16,6 +16,7 @@ In my free time, I like to play tennis, hiking and outdoor adventures.
 
 Recent News
 ======
+* One first-authored paper, "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", was accepted by **ICCV** 2023. 
 * I'm honored to receive Advancement-to-Candidacy (AC) fellowship from ECE at UC Davis. 
 * I will join Apple AIML (Cupertino, CA) as a ML Research Intern in March 2023. 
 * I'm honored to receive the **Best Paper Award** (Top 3) from Workshop on Learning with Limited Labelled Data for Image and Video Understanding at CVPR 2022.
