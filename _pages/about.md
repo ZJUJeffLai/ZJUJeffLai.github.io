@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **ML Research Scientist @ Apple AI/ML**. Prior to that, in 2023, I receieved my Ph.D. from the [Department of Electrical and Computer Engineering](https://ece.ucdavis.edu/), [UC Davis](https://www.ucdavis.edu/), advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, in 2019, I received my bachelor's degree from Zhejiang University.
+I am a **ML Research Scientist @ Apple AI/ML**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University in 2019.
 
 My research interests include multimodality (langugage-vision model), semi-supervised learng and label/data-efficient learning, AI healthcare. 
 
