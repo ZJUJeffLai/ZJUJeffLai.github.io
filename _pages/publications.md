@@ -7,17 +7,20 @@ author_profile: true
 
 Find more on my [Google Scholar](https://scholar.google.com/citations?user=rd8aA3MAAAAJ&hl=en&authuser=1&oi=ao). 
 
-Preprints
+<!-- Preprints
 ======
 * **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 
 
-* **Z. Lai**, J. Chauhan, L. Cerny Oliveira, B. Dugger, S-C. Cheung, C-N. Chuah, "A Deployable and “Active” Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis", under review by **NeurIPS 2023**. 
+* **Z. Lai**, J. Chauhan, L. Cerny Oliveira, B. Dugger, S-C. Cheung, C-N. Chuah, "A Deployable and “Active” Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis", under review by **NeurIPS 2023**.  -->
+2024 
+=====
+* **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 
 
 
 2023
 ======
 
-* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", **ICCV 2023**. 
+* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation," **ICCV 2023**. 
 
 * **Z. Lai**, Z. Li, L. Cerny Oliveira, J. Chauhan, B. Dugger, and C-N. Chuah, "CLIPath: Fine-tune CLIP with Visual Feature Fusion for Pathology Image Analysis Towards Minimizing Data Collection Efforts," ICCV 2nd Workshop on Computer Vision for Automated Medical Diagnosis (CVAMD), Oct 2023.
 

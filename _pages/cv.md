@@ -16,13 +16,13 @@ redirect_from:
 ======
 
 * B.S. in Information Engineering, Zhejiang University, 2019
-* Ph.D in Electrical and Computer Engineering, University of California, Davis, 2023 (expected)
+* Ph.D in Electrical and Computer Engineering, University of California, Davis, 2023 
 
 -- Work Experience
 ======
 
 * Spring & Summer 2023: ML Research Intern 
-  * Apple AIML (Cupertino, CA)
+  * Apple AI/ML (Cupertino, CA)
   
 * Summer 2022: Applied Scientist Intern 
   * Amazon Lab 126 (Sunnyvale, CA)
@@ -32,7 +32,8 @@ redirect_from:
   
 -- Selected Publications 
 ======
-* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation", **ICCV 2023**. 
+* **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 
+* **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation," **ICCV 2023**. 
 * **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," The 39th International Conference on Machine Learning (**ICML**), July 17-23, 2022.
 * **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. (**Best Paper Award**)
 * **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171)
@@ -43,9 +44,12 @@ redirect_from:
 -- Academic Service 
 ======
 * Reviewer
-  * ICML 2022
-  * NeurIPS 2022
-  * CVPR Workshop 2022
+  * ICML 2022, 2023
+  * NeurIPS 2022, 2023
+  * CVPR Workshop 2022, 2023
+  * ICCV 2023
+  * ICLR 2023
+  * International Journal of Computer Vision
   * IEEE Transactions on Image Processing
 
   
