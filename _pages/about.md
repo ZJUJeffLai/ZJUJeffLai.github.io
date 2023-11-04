@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **ML Research Scientist @ Apple AI/ML**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). Prior to this, I received my bachelor's degree from Zhejiang University in 2019.
+I am a **ML Research Scientist @ Apple AI/ML**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
 
 My research interests include multimodality (langugage-vision model), semi-supervised learng and label/data-efficient learning, AI healthcare. 
 
-In my free time, I like to play tennis, hiking and outdoor adventures. I also like to talk to people from various background and learn different life style. Feel free to chat with me. 
+In my free time, I like to play tennis, hiking and outdoor adventures. I also like to talk to people from various backgrounds and learn different life styles. Feel free to chat with me. 
 
 Recent News
 ======
