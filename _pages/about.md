@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **ML Research Scientist @ Apple AI/ML**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
+I am a **ML Research Scientist @  Apple AI/ML**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
 
 My research interests include multimodality (langugage-vision model), semi-supervised learng and label/data-efficient learning, AI healthcare. 
 
@@ -15,7 +15,7 @@ In my free time, I like to play tennis, hiking and outdoor adventures. I also li
 
 Recent News
 ======
-* I will join **Apple AI/ML** as a ML Research Scientist in Nov 2023.  
+* I will join ** Apple AI/ML** as a ML Research Scientist in Nov 2023.  
 * One first-authored paper, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," was accepted by **WACV** 2024.
 * One first-authored paper, "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation," was accepted by **ICCV** 2023. 
 * I'm honored to receive Advancement-to-Candidacy (AC) fellowship from ECE at UC Davis. 
