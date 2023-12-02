@@ -14,15 +14,17 @@ redirect_from:
 
 -- Education
 ======
-
-* B.S. in Information Engineering, Zhejiang University, 2019
 * Ph.D in Electrical and Computer Engineering, University of California, Davis, 2023 
+* B.S. in Information Engineering, Zhejiang University, 2019
+
 
 -- Work Experience
 ======
+* Nov 2023: ML Research Scientist 
+  *  Apple AI/ML (Cupertino, CA)
 
 * Spring & Summer 2023: ML Research Intern 
-  * Apple AI/ML (Cupertino, CA)
+  *  Apple AI/ML (Cupertino, CA)
   
 * Summer 2022: Applied Scientist Intern 
   * Amazon Lab 126 (Sunnyvale, CA)

@@ -9,4 +9,4 @@ Contact
 ======
 [RUBINET](https://www.ece.ucdavis.edu/~chuah/rubinet/people/group.html) (Robust and Ubiquitous Networking) Lab, University of California, Davis. 
 
-Email: lzhengfeng [at] ucdavis.edu 
+Email: lzhengfeng [at] ucdavis.edu, zjujefflai [at] gmail.com
