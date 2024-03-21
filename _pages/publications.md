@@ -17,6 +17,7 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 
 * **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 
 
+* H. Siefkes, L. Cerny Oliveira, R. Koppel, W. Hogan, M. Garg, E. Manalo, N. Cresalia, **Z. Lai**, D. Trancredi, S. Lakshminrusimha, and C-N. Chuah, "Machine Learning Based Critical Congenital Heart Disease Screening using Dual-Site Pulse Oximetry Measurements." Journal of American Heart Association (JAHA), 2024.
 
 2023
 ======
