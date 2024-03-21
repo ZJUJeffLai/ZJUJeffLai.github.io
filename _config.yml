@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Zhengfeng Lai"
-  avatar           : "Jeff_Lai_2.jpg"
+  avatar           : "jeff_2.jpg"
   bio              : "ML Researcher @ Apple AI/ML"
   location         : "Apple Park"
-  employer         : " Apple"
+  employer         : "Apple"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s_Ws1uYAAAAJ&hl=en&oi=ao"
   email            : 

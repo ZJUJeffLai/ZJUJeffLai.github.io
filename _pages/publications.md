@@ -9,12 +9,12 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 
 <!-- Preprints
 ======
-* **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **IEEE Transactions on Pattern Analysis and Machine Intelligence**. 
-
-* **Z. Lai**, J. Chauhan, L. Cerny Oliveira, B. Dugger, S-C. Cheung, C-N. Chuah, "A Deployable and “Active” Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis", under review by **NeurIPS 2023**.  -->
+* **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **ECCV**.  -->
 
 2024 
 ======
+* **Z. Lai**, J. Chauhan, D. Chen, B. Dugger, S-C. Cheung, and C-N. Chuah, "Semi-Path: An Interactive Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis," **Elsevier Smart Health Journal**, accepted and presented at IEEE/ACM CHASE, June 2024.
+
 * **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 
 
 

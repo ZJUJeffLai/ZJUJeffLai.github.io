@@ -15,7 +15,7 @@ In my free time, I like to play tennis, hiking and outdoor adventures. I also li
 
 Recent News
 ======
-* I will join ** Apple AI/ML** as a ML Research Scientist in Nov 2023.  
+* One first-authored paper, "Semi-Path: An Interactive Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis," was accepted by **Smart Health** and will present at IEEE/ACM CHASE 2024. 
 * One first-authored paper, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," was accepted by **WACV** 2024.
 * One first-authored paper, "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation," was accepted by **ICCV** 2023. 
 * I'm honored to receive Advancement-to-Candidacy (AC) fellowship from ECE at UC Davis. 

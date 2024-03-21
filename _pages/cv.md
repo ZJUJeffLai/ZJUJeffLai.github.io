@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/July_Lai.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Jeff_Lai_2024_03.pdf)
 
 -- Education
 ======
@@ -20,7 +20,7 @@ redirect_from:
 
 -- Work Experience
 ======
-* Nov 2023: ML Research Scientist 
+* Nov 2023: ML Researcher 
   *  Apple AI/ML (Cupertino, CA)
 
 * Spring & Summer 2023: ML Research Intern 
