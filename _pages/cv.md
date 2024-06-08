@@ -10,11 +10,13 @@ redirect_from:
 <!-- {% include base_path %} -->
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Jeff_Lai_2024_03.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Lai_Resume_June_8_2024.pdf)
 
 -- Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of California, Davis, 2023 
+  * [2024 College of Engineering (COE) Excellence in Graduate Student Research Award](https://ece.ucdavis.edu/news/college-honors-ece-graduate-student-excellence-research)
+  * 2024 ECE Best Disseration Anil Jain Memorial Award
 * B.S. in Information Engineering, Zhejiang University, 2019
 
 

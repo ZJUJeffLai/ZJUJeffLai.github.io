@@ -11,6 +11,13 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 ======
 * **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **ECCV**.  -->
 
+Preprint 
+======
+* D. Chen, K. Patwari, **Z. Lai**, S. Cheung, C-N. Chuah, "[Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](https://arxiv.org/abs/2405.18376)," **Under Review**. 
+
+* A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," under review by \textbf{NeurIPS 2024}.
+
+
 2024 
 ======
 * **Z. Lai**, J. Chauhan, D. Chen, B. Dugger, S-C. Cheung, and C-N. Chuah, "Semi-Path: An Interactive Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis," **Elsevier Smart Health Journal**, accepted and presented at IEEE/ACM CHASE, June 2024.
