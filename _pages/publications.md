@@ -15,7 +15,7 @@ Preprint
 ======
 * D. Chen, K. Patwari, **Z. Lai**, S. Cheung, C-N. Chuah, "[Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](https://arxiv.org/abs/2405.18376)," **Under Review**. 
 
-* A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," under review by \textbf{NeurIPS 2024}.
+* A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," **Under Review**.
 
 
 2024 
