@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Lai_Resume_June_8_2024.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Lai_Resume_July_1_2024.pdf)
 
 -- Education
 ======
@@ -36,12 +36,14 @@ redirect_from:
   
 -- Selected Publications 
 ======
+* **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **ECCV 2024**. 
+* **Z. Lai**, J. Chauhan, B. N. Dugger, C-N. Chuah, "Bridging the Pathology Domain Gap: Efficiently Adapting CLIP for Pathology Image Analysis with Limited Labeled Data," **ECCV 2024**. 
 * **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 
 * **Z. Lai**, S. Vesdapunt, N. Zhou, J. Wu, X. Li, C. Huynh, C-N. Chuah,  "PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation," **ICCV 2023**. 
-* **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," The 39th International Conference on Machine Learning (**ICML**), July 17-23, 2022.
+* **Z. Lai**, C. Wang, H. Gunawan, S-C. Cheung, and C-N. Chuah, "Smoothed Adaptive Weighting for Imbalanced Semi-Supervised Learning: Improve Reliability Against Unknown Distribution Data," **ICML 2022**.
 * **Z. Lai**, C. Wang, S-C. Cheung, and C-N. Chuah, "SaR: Self-Adaptive Refinement on Pseudo Labels for Multiclass-Imbalanced Semi-Supervised Learning," **CVPR** Workshop on Learning with Limited Labeled Data for Image and Video Understanding (L3DIVU), June 20, 2022. (**Best Paper Award**)
-* **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171)
-* **Z. Lai**, C. Wang, L. Cerny Oliveira, B. Dugger, S-C. Cheung, and C.N. Chuah, "Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling," **ICCV** Workshop on Computational Challenges in Digital Pathology (CDpath), Oct 11, 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)
+<!-- * **Z. Lai**, L. Cerny Oliveira, R. Guo, W. Xu, Z. Hu, K. Mifflin, C. DeCarlie, S-C. Cheung, C-N. Chuah, and B. N. Dugger, "BrainSec: Automated Brain Tissue Segmentation Pipeline for Scalable Neuropathological Analysis," IEEE Access. [PDF](https://ieeexplore.ieee.org/document/9766171) -->
+<!-- * **Z. Lai**, C. Wang, L. Cerny Oliveira, B. Dugger, S-C. Cheung, and C.N. Chuah, "Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling," **ICCV** Workshop on Computational Challenges in Digital Pathology (CDpath), Oct 11, 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf) -->
 
 
 
