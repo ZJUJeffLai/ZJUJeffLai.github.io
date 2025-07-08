@@ -37,6 +37,8 @@ redirect_from:
   
 -- Selected Publications 
 ======
+* H-Y. Chen, **Z. Lai**, H. Zhang, X. Wang, M. Eichner, K. You, M. Cao, B. Zhang, Y. Yang, Z Gan. "[Contrastive Localized Language-Image Pre-Training](https://arxiv.org/abs/2410.02746)," [**ICML 2025**]
+* **Z. Lai**, et al, "[Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models](https://arxiv.org/abs/2410.02740)," [**ICLR 2025**]
 * **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **ECCV 2024**. 
 * **Z. Lai**, J. Chauhan, B. N. Dugger, C-N. Chuah, "Bridging the Pathology Domain Gap: Efficiently Adapting CLIP for Pathology Image Analysis with Limited Labeled Data," **ECCV 2024**. 
 * **Z. Lai**, H. Bai, H. Zhang, X. Du, J. Shan, Y. Yang, C-N. Chuah, M. Cao, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," **WACV 2024**. 

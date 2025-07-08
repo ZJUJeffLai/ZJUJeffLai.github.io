@@ -13,14 +13,26 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 
 Multimodal Large-Scale Pre-Training
 ======
-* CLOC: Contrastive Localized Language-Image Pre-Training [**ICML 2025**](https://arxiv.org/abs/2410.02746)
-* Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models [**ICLR 2025**](https://arxiv.org/abs/2410.02740)
-* VeCLIP: Improving CLIP Training via Visual-Enriched Captions [*ECCV 2024**](https://link.springer.com/chapter/10.1007/978-3-031-72946-1_7)
+* CLOC: Contrastive Localized Language-Image Pre-Training, [**ICML 2025**](https://arxiv.org/abs/2410.02746)
+* Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models, [**ICLR 2025**](https://arxiv.org/abs/2410.02740)
+* VeCLIP: Improving CLIP Training via Visual-Enriched Captions, [**ECCV 2024**](https://link.springer.com/chapter/10.1007/978-3-031-72946-1_7)
 
 
 Apple Intelligence and Foundation Model
 ======
+* Updates to Apple's On-Device and Server Foundation Language Models [**Blog**](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)
+* Apple Intelligence Foundation Language Models [**Arxiv**](https://arxiv.org/abs/2407.21075)
+* MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning [**ICLR 2025**](https://arxiv.org/abs/2409.20566)
+* MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains [**NAACL 2025 Findings**](https://arxiv.org/abs/2407.18961)
 
+Video Foundation Model
+======
+* StreamBridge: Turning Your Offline Video Large Model into a Proactive Streaming Assistant [**Arxiv**](https://arxiv.org/pdf/2505.05467)
+* Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding? [**Arxiv**](https://arxiv.org/pdf/2505.14321)
+* SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding [**COLM 2025**](https://arxiv.org/pdf/2503.18943)
+* SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models [**Arxiv**](https://arxiv.org/abs/2407.15841)
+* ETVA: Evaluation of Text-to-Video Alignment via Fine-grained Question Generation and Answering [**ICCV 2025**](https://arxiv.org/pdf/2503.16867)
+* STIV: Scalable Text and Image Conditioned Video Generation [**ICCV 2025**](https://arxiv.org/pdf/2412.07730)
 
 
 
