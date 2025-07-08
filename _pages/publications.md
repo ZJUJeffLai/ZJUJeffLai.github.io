@@ -11,17 +11,26 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 ======
 * **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **ECCV**.  -->
 
-2025
+Multimodal Large-Scale Pre-Training
 ======
-* **Z. Lai**, F. Bo, S. Li, Z. Wang, S. Wang, P. Huang, M. Cao. "[Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?](https://arxiv.org/abs/2505.14321)," **Under Review**.
+* CLOC: Contrastive Localized Language-Image Pre-Training [**ICML 2025**](https://arxiv.org/abs/2410.02746)
+* Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models [**ICLR 2025**](https://arxiv.org/abs/2410.02740)
+* VeCLIP: Improving CLIP Training via Visual-Enriched Captions [*ECCV 2024**](https://link.springer.com/chapter/10.1007/978-3-031-72946-1_7)
 
-* D. Chen, K. Patwari, **Z. Lai**, S. Cheung, C-N. Chuah, "[Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](https://arxiv.org/abs/2405.18376)," **Under Review**. 
 
-* A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," **Under Review**.
+Apple Intelligence and Foundation Model
+======
+
+
+
 
 
 2024 
 ======
+* D. Chen, K. Patwari, **Z. Lai**, X. Zhu, S. Cheung, C-N. Chuah, "[Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](https://arxiv.org/abs/2405.18376)," **Under Review**. 
+
+* A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," **Under Review**.
+
 * **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **European Conference on Computer Vision (ECCV)**, Oct 2024. 
 
 * **Z. Lai**, J. Chauhan, B. N. Dugger, C-N. Chuah, "Bridging the Pathology Domain Gap: Efficiently Adapting CLIP for Pathology Image Analysis with Limited Labeled Data," **European Conference on Computer Vision (ECCV)**, Oct 2024. 

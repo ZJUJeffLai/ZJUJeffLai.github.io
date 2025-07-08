@@ -22,8 +22,9 @@ redirect_from:
 
 -- Work Experience
 ======
-* Nov 2023: ML Researcher 
+* Nov 2023: ML Research Scientist
   *  Apple AI/ML (Cupertino, CA)
+  * Apple Intelligence, Vision Foundation Model
 
 * Spring & Summer 2023: ML Research Intern 
   *  Apple AI/ML (Cupertino, CA)
