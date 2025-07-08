@@ -15,7 +15,8 @@ In my free time, I like to play tennis, hiking and outdoor adventures. I also li
 
 Recent News
 ======
-* Two first-authored papers ([*VeCLIP*](https://arxiv.org/abs/2310.07699) and *PathCLIP*) are accepted by ECCV 2024. 
+* [*SlowFast-LLaVA-1.5*](https://arxiv.org/pdf/2503.18943) is accepted by **COLM 2025**. 
+* Two first-authored papers ([*VeCLIP*](https://arxiv.org/abs/2310.07699) and [*PathCLIP*](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_15)) are accepted by ECCV 2024. 
 * I'm honored to receive [**2024 College of Engineering (COE) Excellence in Graduate Student Research Award**](https://ece.ucdavis.edu/news/college-honors-ece-graduate-student-excellence-research) and **2024 ECE Best PhD Disseration Award**. 
 * One first-authored paper, "[*Semi-Path: An Interactive Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis*](https://www.sciencedirect.com/science/article/pii/S2352648324000308)," was accepted by **Smart Health** and will present at IEEE/ACM CHASE 2024. 
 <!-- * One first-authored paper, "Empowering Unsupervised Domain Adaptation with Large-scale Pre-trained Vision-Language Models," was accepted by **WACV** 2024. -->
