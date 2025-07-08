@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a **ML Research Scientist @  Apple AI/ML**, contributing to **Apple Intelligence** and **Vision Foundation Models**. Prior to that, I receieved my Ph.D. from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
 
-My research interests include multimodal pre-training, label/data-efficient learning, and AI healthcare. 
+My research interests include Large Language Model, Multimodal Pre-training, Video Foundation Model, label/data-efficient learning, and AI healthcare. 
 
 In my free time, I like to play tennis, hiking and outdoor adventures. I also like to talk to people from various backgrounds and learn different life styles. Feel free to chat with me. 
 
