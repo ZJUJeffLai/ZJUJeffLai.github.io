@@ -11,8 +11,10 @@ Find more on my [Google Scholar](https://scholar.google.com/citations?user=s_Ws1
 ======
 * **Z. Lai**, J. Chauhan, Z. Li, L. Cerny Oliveira, B. Dugger, C-N. Chuah, ``Path-CLIP: Efficient Adaptation of CLIP for Pathology Image Analysis with Limited  Data", under review by  **ECCV**.  -->
 
-Preprint 
+2025
 ======
+* **Z. Lai**, F. Bo, S. Li, Z. Wang, S. Wang, P. Huang, M. Cao. "[Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding?](https://arxiv.org/abs/2505.14321)," **Under Review**.
+
 * D. Chen, K. Patwari, **Z. Lai**, S. Cheung, C-N. Chuah, "[Empowering Source-Free Domain Adaptation with MLLM-driven Curriculum Learning](https://arxiv.org/abs/2405.18376)," **Under Review**. 
 
 * A. Haydari, D. Chen, **Z. Lai**, M. Zhang, C-N. Chuah, "[MobilityGPT: Enhanced Human Mobility Modeling with a GPT model](https://arxiv.org/abs/2402.03264)," **Under Review**.
