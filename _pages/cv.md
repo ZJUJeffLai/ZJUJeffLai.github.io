@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Lai_Resume_July_1_2024.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://zjujefflai.github.io/files/Jeff_Lai_2025_07.pdf)
 
 -- Education
 ======

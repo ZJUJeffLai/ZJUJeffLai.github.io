@@ -20,9 +20,9 @@ Preprint
 
 2024 
 ======
-* **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **European Conference on Computer Vision**, Oct 2024. 
+* **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **European Conference on Computer Vision (ECCV)**, Oct 2024. 
 
-* **Z. Lai**, J. Chauhan, B. N. Dugger, C-N. Chuah, "Bridging the Pathology Domain Gap: Efficiently Adapting CLIP for Pathology Image Analysis with Limited Labeled Data," **European Conference on Computer Vision**, Oct 2024. 
+* **Z. Lai**, J. Chauhan, B. N. Dugger, C-N. Chuah, "Bridging the Pathology Domain Gap: Efficiently Adapting CLIP for Pathology Image Analysis with Limited Labeled Data," **European Conference on Computer Vision (ECCV)**, Oct 2024. 
 
 * **Z. Lai**, J. Chauhan, D. Chen, B. Dugger, S-C. Cheung, and C-N. Chuah, "Semi-Path: An Interactive Semi-supervised Learning Framework for Gigapixel Pathology Image Analysis," **Elsevier Smart Health Journal**, accepted and presented at IEEE/ACM CHASE, June 2024.
 
