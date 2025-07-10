@@ -51,7 +51,9 @@ redirect_from:
 
 -- Mentoring 
 ======
-* [Haibo Wang](https://whb139426.github.io/)
+* [Haibo Wang](https://whb139426.github.io/), Fudan University
+* Kaisi Guan, Renmin University of China
+* [Zhiyang Xu](https://scholar.google.com/citations?user=Qcshi8UAAAAJ&hl=en), Virginia Tech
 
 -- Academic Service 
 ======
