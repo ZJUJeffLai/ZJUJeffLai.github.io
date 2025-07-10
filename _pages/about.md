@@ -17,7 +17,7 @@ Recent News
 ======
 * We release our first streaming video understanding work: [*StreamBridge*](https://arxiv.org/pdf/2505.05467).
 * [*SlowFast-LLaVA-1.5*](https://arxiv.org/pdf/2503.18943) is accepted by **COLM 2025**. 
-* Our video generation model [*STIV*](https://arxiv.org/pdf/2412.07730) and benchmark [*ETVA*](https://arxiv.org/pdf/2503.16867) are accepted by **ICCV 2025**. 
+* Our video generation model [*STIV*](https://arxiv.org/pdf/2412.07730) and benchmark [*ETVA*](https://eftv-eval.github.io/etva-eval) are accepted by **ICCV 2025**. 
 * Our next-gen vision encoder [*CLOC: Contrastive Localized Language-Image Pre-Training*](https://arxiv.org/pdf/2410.02746) is accepted by **ICML 2025**. 
 * First-authored paper in large-scale multimodal pre-training [*Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models*](https://arxiv.org/abs/2410.02740) is accepted by **ICLR 2025**. 
 * Two first-authored papers ([*VeCLIP*](https://arxiv.org/abs/2310.07699) and [*PathCLIP*](https://link.springer.com/chapter/10.1007/978-3-031-73039-9_15)) are accepted by **ECCV 2024**. 
