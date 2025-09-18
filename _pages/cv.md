@@ -37,6 +37,7 @@ redirect_from:
   
 -- Selected Publications 
 ======
+* H. Wang, B. Feng, **Z. Lai**, M. Xu, et al. "[StreamBridge: Turning Your Offline Video Large Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)," **NeurIPS 2025**.
 * H-Y. Chen, **Z. Lai**, H. Zhang, X. Wang, M. Eichner, K. You, M. Cao, B. Zhang, Y. Yang, Z Gan. "[Contrastive Localized Language-Image Pre-Training](https://arxiv.org/abs/2410.02746)," **ICML 2025**.
 * **Z. Lai**, et al, "[Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models](https://arxiv.org/abs/2410.02740)," **ICLR 2025**.
 * **Z. Lai**, H. Zhang, B. Zhang, W. Wu, H. Bai, A. Timofeev, X. Du, Z. Gan, J. Shan, C-N. Chuah, Y. Yang, M. Cao, "[VeCLIP: Improving CLIP Training via Visual-enriched Captions](https://arxiv.org/abs/2310.07699)," **ECCV 2024**. 

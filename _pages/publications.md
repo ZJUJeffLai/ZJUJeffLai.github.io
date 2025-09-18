@@ -19,14 +19,14 @@ Multimodal Large-Scale Pre-Training
 
 Apple Intelligence and Foundation Model
 ======
-* Updates to Apple's On-Device and Server Foundation Language Models, [**Blog**](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)
+* Updates to Apple's On-Device and Server Foundation Language Models, [**Arxiv**](https://arxiv.org/pdf/2507.13575v2), [**Blog**](https://machinelearning.apple.com/research/apple-foundation-models-2025-updates)
 * Apple Intelligence Foundation Language Models, [**Arxiv**](https://arxiv.org/abs/2407.21075)
 * MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning, [**ICLR 2025**](https://arxiv.org/abs/2409.20566)
 * MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains, [**NAACL 2025 Findings**](https://arxiv.org/abs/2407.18961)
 
 Video Foundation Model
 ======
-* StreamBridge: Turning Your Offline Video Large Model into a Proactive Streaming Assistant, [**Arxiv**](https://arxiv.org/pdf/2505.05467)
+* StreamBridge: Turning Your Offline Video Large Model into a Proactive Streaming Assistant, [**NeurIPS 2025**](https://arxiv.org/pdf/2505.05467)
 * Breaking Down Video LLM Benchmarks: Knowledge, Spatial Perception, or True Temporal Understanding? [**Arxiv**](https://arxiv.org/pdf/2505.14321)
 * SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models for Long-Form Video Understanding, [**COLM 2025**](https://arxiv.org/pdf/2503.18943)
 * SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models, [**Arxiv**](https://arxiv.org/abs/2407.15841)
