@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **ML Research Scientist @  Apple AI/ML**, contributing to **Apple Intelligence** and **Vision Foundation Models**. Prior to that, I received my Ph.D. honored with **Best PhD Dissertation Award** from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
+I am a **Senior Research Scientist, World Modeling** at the [Institute of Foundation Models, MBZUAI](https://ifm.mbzuai.ac.ae/), contributing to open-sourced world models. Before to that, I was a **ML Research Scientist @  Apple AI/ML**, contributing to **Apple Intelligence** and **Vision Foundation Models**. Prior to that, I received my Ph.D. honored with **Best PhD Dissertation Award** from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
 
-My research interests include Large Language Model, Multimodal Pre-Training, Video Foundation Model, label/data-efficient learning, and AI healthcare. 
+My research interests include World Modeling, Multimodal Pre-Training, Video Foundation Model, label/data-efficient learning, and AI healthcare. 
 
 In my free time, I like to play tennis, hiking and outdoor adventures. I also like to talk to people from various backgrounds and learn different life styles. Feel free to chat with me. 
 
