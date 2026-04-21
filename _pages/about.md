@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **Staff Research Scientist (Tech Lead Manager), World Modeling** at the [Institute of Foundation Models, MBZUAI](https://ifm.mbzuai.ac.ae/), contributing to open-sourced world models. Before to that, I was a **ML Research Scientist @  Apple AI/ML**, contributing to **Apple Intelligence** and **Vision Foundation Models**. Prior to that, I received my Ph.D. honored with **Best PhD Dissertation Award** from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
+I am a **Staff Research Scientist (Tech Lead Manager), World Modeling** at the [Institute of Foundation Models, MBZUAI](https://ifm.mbzuai.ac.ae/), contributing to open-sourced world models. Before to that, I was a **Senior ML Research Scientist @  Apple AI/ML**, contributing to **Apple Intelligence** and **Vision Foundation Models**. Prior to that, I received my Ph.D. honored with **Best PhD Dissertation Award** from the [University of California, Davis](https://www.ucdavis.edu/) in 2023, advised by [Prof. Chen-Nee Chuah](https://www.ece.ucdavis.edu/~chuah/rubinet/people/chuah/bio.html), [Prof. Sen-Ching Cheung](https://www.engr.uky.edu/directory/cheung-samson), and [Prof. Brittany N. Dugger](https://health.ucdavis.edu/pathology/our_team/faculty/duggerB.html). I received my bachelor's degree from Zhejiang University in 2019.
 
 My research interests include World Modeling, Multimodal Pre-Training, Video Foundation Model, label/data-efficient learning, and AI healthcare. 
 
@@ -15,7 +15,9 @@ In my free time, I like to play tennis, hiking and outdoor adventures. I also li
 
 Recent News
 ======
-* Our first streaming video understanding work [*StreamBridge*](https://arxiv.org/pdf/2505.05467) is accepted by **NeurIPS 2025**.
+* Our work on video captioning (Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering) is accepted by ACL 2026 as Oral Presentation. 
+* We release [*TGPO (Temporal Global Policy Optimization)*](https://arxiv.org/pdf/2603.27184) for egocentric video understanding. 
+* Our first streaming video understanding work [*StreamBridge*](https://arxiv.org/pdf/2505.05467) is accepted by **NeurIPS 2025**. We also release our streaming benchmark at CVPR 2026 Findings: [*VSAS-BENCH*](https://arxiv.org/abs/2604.07634). 
 * [*SlowFast-LLaVA-1.5*](https://arxiv.org/pdf/2503.18943) is accepted by **COLM 2025**. 
 * Our video generation model [*STIV*](https://arxiv.org/pdf/2412.07730) and benchmark [*ETVA*](https://eftv-eval.github.io/etva-eval) are accepted by **ICCV 2025**. 
 * Our next-gen vision encoder [*CLOC: Contrastive Localized Language-Image Pre-Training*](https://arxiv.org/pdf/2410.02746) is accepted by **ICML 2025**. 
