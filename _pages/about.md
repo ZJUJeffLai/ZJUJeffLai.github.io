@@ -15,9 +15,9 @@ In my free time, I like to play tennis, hiking and outdoor adventures. I also li
 
 Recent News
 ======
-* Our work on video captioning (Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering) is accepted by ACL 2026 as Oral Presentation. 
+* Our work on video captioning (Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering) is accepted by **ACL 2026** as **Oral** Presentation. 
 * We release [*TGPO (Temporal Global Policy Optimization)*](https://arxiv.org/pdf/2603.27184) for egocentric video understanding. 
-* Our first streaming video understanding work [*StreamBridge*](https://arxiv.org/pdf/2505.05467) is accepted by **NeurIPS 2025**. We also release our streaming benchmark at CVPR 2026 Findings: [*VSAS-BENCH*](https://arxiv.org/abs/2604.07634). 
+* Our first streaming video understanding work [*StreamBridge*](https://arxiv.org/pdf/2505.05467) is accepted by **NeurIPS 2025**. We also release our streaming benchmark at **CVPR 2026 Findings**: [*VSAS-BENCH*](https://arxiv.org/abs/2604.07634). 
 * [*SlowFast-LLaVA-1.5*](https://arxiv.org/pdf/2503.18943) is accepted by **COLM 2025**. 
 * Our video generation model [*STIV*](https://arxiv.org/pdf/2412.07730) and benchmark [*ETVA*](https://eftv-eval.github.io/etva-eval) are accepted by **ICCV 2025**. 
 * Our next-gen vision encoder [*CLOC: Contrastive Localized Language-Image Pre-Training*](https://arxiv.org/pdf/2410.02746) is accepted by **ICML 2025**. 
